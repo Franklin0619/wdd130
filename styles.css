@@ -1,0 +1,53 @@
+h1{
+    color: darkgreen;
+}
+
+nav {
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+nav a {
+    color: darkblue;
+    display: block;
+    padding: 20px;
+}
+
+
+
+main img {
+    width: 150px;
+    height: auto;
+    border: 1px solid black;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+}
+
+p {
+    padding: 0;
+}
+
+main{
+    max-width: 840px;
+}
+
+aside {
+    width: 200px;
+    margin: 20px;
+    border: 10px;
+    padding: 10px;
+    background-color: lightgreen;
+    color: black;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+}
+
+footer {
+    margin-top: 20px;
+    border: 20px;
+    text-align: center;
+}
+
